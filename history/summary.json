@@ -58,9 +58,9 @@
     "url": "https://iceevee.iceevee1008.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/iceevee.iceevee1008.repl.co.ico",
     "slug": "replit",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,6 +69,8 @@
     "timeWeek": 814,
     "timeMonth": 735,
     "timeYear": 735,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-16": 0
+    }
   }
 ]
