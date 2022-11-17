@@ -58,19 +58,19 @@
     "url": "https://iceevee.iceevee1008.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/iceevee.iceevee1008.repl.co.ico",
     "slug": "replit",
-    "status": "up",
-    "uptime": "99.50%",
-    "uptimeDay": "95.83%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "99.50%",
+    "status": "down",
+    "uptime": "99.57%",
+    "uptimeDay": "96.36%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.57%",
     "time": 695,
     "timeDay": 605,
     "timeWeek": 744,
     "timeMonth": 695,
     "timeYear": 695,
     "dailyMinutesDown": {
-      "2022-11-17": 29,
+      "2022-11-17": 21,
       "2022-11-16": 31
     }
   }
